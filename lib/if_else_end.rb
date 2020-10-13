@@ -1,4 +1,4 @@
 # Write your solution here
-if 10 > 5
+if true
   puts "Yes!"
 end
