@@ -9,3 +9,6 @@ elsif rain_chance > 0.25 && rain_chance < 0.75
 else
   puts "Let's just stay home"
 end
+
+
+puts 
