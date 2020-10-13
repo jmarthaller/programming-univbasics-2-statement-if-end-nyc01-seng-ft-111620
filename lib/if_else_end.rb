@@ -13,4 +13,4 @@
 
 puts "Do you know what year it is"
 this_year = 2020
-puts "It is 2020" if this_year == 2020
+puts "Hey, it's not 2020" unless this_year == 2020
