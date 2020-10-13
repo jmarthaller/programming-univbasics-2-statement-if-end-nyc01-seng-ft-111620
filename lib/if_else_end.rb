@@ -12,5 +12,5 @@
 
 
 
-this_year = 2020
-puts "Hey, it's not 2020" unless this_year == 2020
+# this_year = 2020
+puts "Hey, it's not 2020" unless Time.now.year == 2020
