@@ -1,7 +1,11 @@
 # Write your solution here
-run_this_code = false
-puts "code before if...end"
-if !run_this_code
-  puts "aha still got it"
+rain_chance = 0.2
+
+puts "Wanna play outside?"
+
+if rain_chance > 0.5
+  puts "Pack an umbrella"
+else
+  puts "Let's have some fun!"
 end
-puts "Code after if...end"
+puts "Should I bring sunscreen?"
