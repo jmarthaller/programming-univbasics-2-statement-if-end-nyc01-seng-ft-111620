@@ -1,4 +1,7 @@
 # Write your solution here
-if true
-  puts "This code runs!"
+run_this_code = true
+puts "code before if...end"
+if run_this_code
+  puts "code inside"
 end
+puts "Code after if...end"
