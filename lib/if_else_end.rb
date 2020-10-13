@@ -1,4 +1,4 @@
 # Write your solution here
 if true
-  puts "Yes!"
+  puts "This code runs!"
 end
