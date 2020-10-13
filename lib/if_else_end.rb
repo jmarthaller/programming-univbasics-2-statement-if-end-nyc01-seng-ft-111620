@@ -7,6 +7,6 @@ if rain_chance <= 0.25
 elsif rain_chance > 0.25 && rain_chance < 0.75
   puts "Pack an umbrella!"
 else
-  puts "Let's have some fun!"
+  puts "Let's just stay home"
 end
 puts "Should I bring sunscreen?"
