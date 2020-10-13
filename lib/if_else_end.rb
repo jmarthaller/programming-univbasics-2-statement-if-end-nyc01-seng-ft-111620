@@ -1,10 +1,11 @@
 # Write your solution here
-rain_chance = 1
+rain_chance = 0.2
 
-puts "Wanna play outside?"
 
-if rain_chance > 0.5
-  puts "Pack an umbrella"
+if rain_chance <= 0.25
+  puts "There should be sun!"
+elsif rain_chance > 0.25 && rain_chance < 0.75
+  puts "Pack an umbrella!"
 else
   puts "Let's have some fun!"
 end
