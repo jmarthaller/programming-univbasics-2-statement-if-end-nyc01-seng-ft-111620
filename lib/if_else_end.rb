@@ -1,5 +1,5 @@
 # Write your solution here
-rain_chance = 0.0000000001
+rain_chance = 0.2
 
 
 if rain_chance <= 0.25
